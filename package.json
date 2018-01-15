@@ -1,0 +1,13 @@
+{
+  "name": "study-of-design-analysis",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "main": "index.js",
+  "author": "Kesler Tanner",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
